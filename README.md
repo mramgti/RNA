@@ -5,6 +5,8 @@
 
 * ### [Colab - RNA - Perceptron - Numpy](https://colab.research.google.com/drive/1Z_p0wtf-gWKthRbUiVHPkZy3q4hO-eeN?usp=sharing)
 
+* ### [Colab - RNA - Funções de Ativação](https://colab.research.google.com/drive/15dta_jVpurr-bA4QdvoE8wY6IBlQU1cT?usp=sharing)
+
 ## [Aula 02 - RNA Multicamada - XOR](https://github.com/mramgti/RNA/blob/main/slides/02_Aula%2002-RNA-Redes%20Neurais%20Artificiais%20Multicamada_XOR.pdf)
 
 * ### [Colab - RNA Multicamada XOR - Numpy](https://colab.research.google.com/drive/1SuOvaAhWGzmzpS-uuZosCvxKsz27aMNg?usp=sharing)
