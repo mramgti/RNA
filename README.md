@@ -57,7 +57,7 @@
 
 * ### [Colab - RNA SpaceShip Titanic - Kaggle](https://colab.research.google.com/drive/1gnlbo2AKOK4n1oKViQPySigptdLu_-jL?usp=sharing)
 
-* ### [Colab - RNA dataset Digit Recognizer - Kaggle](https://colab.research.google.com/drive/1N1QxOq_mW6V1fow09GT63nawbgyDyPif?usp=sharing)
+<!-- * ### [Colab - RNA dataset Digit Recognizer - Kaggle](https://colab.research.google.com/drive/1N1QxOq_mW6V1fow09GT63nawbgyDyPif?usp=sharing) -->
 
 
 
